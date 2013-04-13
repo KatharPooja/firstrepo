@@ -4,11 +4,11 @@
 # http://www.catonmat.net  --  good coders code, great reuse
 #
 # Released under GNU GPL
-#
+
 # Developed as a part of reddit top program.
 # Read how it was designed:
 # http://www.catonmat.net/blog/follow-reddit-from-the-console
-#
+
 
 import re
 import sys
